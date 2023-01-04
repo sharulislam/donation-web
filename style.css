@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+/* Main heading section  */
+
+header{
+    height: 670px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headersection{
+    padding: 160px;
+    text-align: center;
+    color: white;
+}
+.heading{
+    font-size: 60px;
+}
+.donatebutton{
+    text-decoration: none;
+    color: aliceblue;
+   
+    font-weight: 700;
+    background-color: #FF5959;
+    
+    
+    padding: 13px;
+    margin-top: 20px;
+    border-radius: 4px;
+    position: relative;
+    top: 30px;
+}
+
+/* Donation Amount section  */
+
+
+.donatetoday{
+    padding: 160px;
+    text-align: center;
+    color:rgb(73, 66, 66);
+}
+.donatetodayheading{
+    font-size: 45px;
+}
+.dmoney{
+    margin: 30px;
+
+}
+.mbutton{
+    height: 123px;
+    width: 135px;
+    background-color: #FAFAFA;
+    border-radius: 4px;
+    margin: 15px;
+    border: none;
+    font-size: 30px;
+}
+#selectedmbutton{
+    border: 2px solid red;
+    background-color: #FF5959
+    ;
+}
+.omfield{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    text-align: center;
+    font-size: 18px;
+}
+
+.donateplan{
+    padding: 100px;
+text-align: center;
+color:rgb(73, 66, 66);
+}
+
+.donatebox{
+    display: flex;
+    
+    justify-content:center;
+    
+    
+}
+
+.dplan{
+    width: 360px;
+    height: 353px;
+    border-radius: 6px;
+    padding: 40px;
+    
+
+}
+#plan1{
+    background-color: #4f9da634;
+    margin: 0px 20px;
+}
+#plan2{
+ background-color: #ff595933 ;
+ margin: 0px 20px;
+}
+#plan3{
+ background-color: #fff4d63d;
+ margin: 0px 20px;
+}
+
+/* Article section 1 */
+.donatearticle1{
+    display: flex;
+    height: 720px;
+
+    justify-content:center;
+    align-items: center;
+    
+}
+
+
+.articleheading{
+    font-size: 45px;
+    font-weight: 1000;
+}
+.article1{
+
+text-align: center;
+padding: 192px;
+width: 50%;
+}
+
+
+.contributebutton{
+    text-decoration: none;
+    color: aliceblue;
+   
+    font-weight: 700;
+    background-color: #FF5959;
+    
+    
+    padding: 13px;
+    margin-top: 20px;
+    border-radius: 4px;
+    position: relative;
+    top: 30px;
+}
+
+
+.article2{
+    width: 50%;
+    
+    
+    }
+.articleimg1{
+    width: 456px;
+    height: 477px;
+    border-radius: 12px;
+    
+    
+}
+
+
+
+/* Article section 2 */
+
+.donatearticle2{
+    display: flex;
+    height: 720px;
+
+    
+    justify-content: center;
+    align-items: center;
+
+    
+    
+}
+
+/* Article Image  */
+.article3{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+.articleimg2{
+    width: 456px;
+    height: 477px;
+
+    border-radius: 12px;
+}
+
+
+/* Article Heading paragraph button  */
+.article4{
+text-align: center;
+padding: 192px;
+width: 50%;
+}
+
+.contributebutton{
+    text-decoration: none;
+    color: aliceblue;
+   
+    font-weight: 700;
+    background-color: #FF5959;
+    
+    
+    padding: 13px;
+    margin-top: 20px;
+    border-radius: 4px;
+    position: relative;
+    top: 30px;
+}
+
+/* Get My Update section  */
+
+.myupdate{
+    text-align: center;
+    margin-bottom: 40px;
+    height: 480px;
+  
+}
+
+.myupdateheading{
+    font-size: 45px;
+    font-weight: bolder ;
+}
+
+.emailsec{
+    height: 200px;
+    width: 800px;
+    background-color: #FFF4D6;
+    margin: auto;
+}
+.subscribe{
+    display: inline-block;
+    margin: auto;
+    position: relative;
+    top: 61px;
+    padding: 15px;
+    
+    
+
+}
+.inputemail{
+    border: none;
+    background-color: #D9D9D9;
+    padding: 10px;
+    border-radius: 8px;
+    border-top-right-radius:0px ;
+    border-bottom-right-radius: 0px;
+    font-size: 14px;
+}
+.inputsubs{
+    background-color: #FF5959;
+    padding: 9px;
+    border-radius: 8px;
+    border-top-left-radius:0px ;
+    border-bottom-left-radius: 0px;
+    color: #D9D9D9;
+    
+}
+
+.footer{
+    height: 150px;
+    background-color: black;
+    color: #FAFAFA;
+    padding-top: 60px;
+    text-align: center;
+    margin: auto;
+
+}
+.footerhead{
+    color: #FF5959;
+    font-family: mywish;
+}
+
+
+
+
